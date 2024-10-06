@@ -1,0 +1,3 @@
+cache/*
+qdrant_data/*
+code/__pycache__/qdrant.cpython-38.pyc
